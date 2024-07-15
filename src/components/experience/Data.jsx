@@ -1,0 +1,51 @@
+const Data1 = [
+    {
+      id: 1,
+      category: "education",
+      icon: "icon-graduation",
+      year: "2021 - 2025",
+      title: "Bachelor's Degree in Biotechnology",
+      desc: "Earned a Bachelor's in Biotechnology, gaining hands-on experience and developing interests in web development, machine learning, and problem-solving.",
+    },
+    {
+      id: 2,
+      category: "education",
+      icon: "icon-graduation",
+      year: "2019 - 2020",
+      title: "Academic Degree",
+      desc: "Completed 10th and 12th grades at JP International School, studying Physics, Chemistry, Biology, and Computer Science in 12th.",
+    },
+    // {
+    //   id: 3,
+    //   category: "",
+    //   icon: "",
+    //   year: "",
+    //   title: "",
+    //   desc: "",
+    // },
+    {
+      id: 4,
+      category: "experience",
+      icon: "icon-briefcase",
+      year: "July 2023 - August 2023",
+      title: "Web Developer",
+      desc: "Interned at Bharat Intern, where I created a clone of the Netflix homepage, a personal portfolio website, and a temperature converter website.",
+    },
+    // {
+    //   id: 5,
+    //   category: "",
+    //   icon: "",
+    //   year: "",
+    //   title: "",
+    //   desc: "",
+    // },
+    // {
+    //   id: 6,
+    //   category: "",
+    //   icon: "",
+    //   year: "",
+    //   title: "",
+    //   desc: "",
+    // },
+  ];
+export default Data1;
