@@ -1,7 +1,7 @@
 {
-    "short_name": "ReactApp",
-    "name": "My React Application",
-    "description": "A simple React application.",
+    "short_name": "Portfolio",
+    "name": "My Portfolio Website",
+    "description": "My Portfolio Website",
     "icons": [
       {
         "src": "favicon.ico",
