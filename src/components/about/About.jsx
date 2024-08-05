@@ -12,7 +12,7 @@ export const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">I am Jaivish Mishra, Web Developer from India. I am doing my Bachelors of Technology in Biotechnology. I am good at Designing and Building Websites and Familiar with Wix Studios and Figma. In Biotechnology, I am experienced in Nanobiotechnology, Microbiology, Plant biotechnolgy, MATLAB and Computational Biotechnolgy which include Molecular docking which includes both Protein-Ligand and Protein-Protein docking, ADMET, etc. </p>
-            <a href="../../assets/jaivishMishraResume.pdf" className="btn" download>Download CV</a>
+            <a href="https://drive.google.com/file/d/11bIsCSVfrdYAjT5etGsK5NYLXLsvGmsg/view?usp=sharing" className="btn" download>Download CV</a>
           </div>
           <div className="about__skills grid">
             <div className="skills__data">
